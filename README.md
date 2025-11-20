@@ -1,6 +1,6 @@
 # Pokémon Type Classifier
 
-Este proyecto implementa un modelo de **Visión por Computadora** basado en Deep Learning para identificar los tipos elementales (Fuego, Agua, Planta, etc.) de un Pokémon basándose únicamente en su imagen visual.
+Este proyecto implementa un modelo de **Visión por Computadora** basado en Deep Learning para identificar los tipos (Fuego, Agua, Planta, etc.) de un Pokémon basándose únicamente en su imagen visual.
 
 ## Características principales
 
